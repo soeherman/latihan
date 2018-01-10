@@ -7,11 +7,15 @@ use Illuminate\Http\Request;
 class controlLatihan extends Controller
 {
     //
-    public class haha{
+    public function haha{
 
     }
 
-    public class heha{
+    public function heha{
     	
     }
+
+    public function hah{
+    	
+    } 
 }
